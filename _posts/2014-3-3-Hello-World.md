@@ -1,6 +1,6 @@
 ---
-layout: post
-title: THIS IS SUNPY'S BLOG!
+layout: page
+title: HELLO WORLD
 ---
 
 HELLO WORLD!
