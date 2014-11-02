@@ -14,4 +14,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:sunpy1106@qq.com)
+[sunpy1106@qq.com](mailto:sunpy1106@qq.com)
