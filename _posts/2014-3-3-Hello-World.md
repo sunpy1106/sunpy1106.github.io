@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 我正式开通博客啦
 ---
 
